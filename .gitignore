@@ -1,1 +1,3 @@
-*.~*.rar
+**/History
+**/__Previews
+desktop.ini
