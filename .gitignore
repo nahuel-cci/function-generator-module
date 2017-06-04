@@ -1,3 +1,7 @@
 **/History
 **/__Previews
 desktop.ini
+*.fft
+*.log
+*.op.raw
+*.raw
