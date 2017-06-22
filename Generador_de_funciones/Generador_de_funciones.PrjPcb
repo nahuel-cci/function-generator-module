@@ -38,7 +38,7 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=Gen_func.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -72,7 +72,7 @@ DocumentUniqueId=TXVQASKC
 
 [Document3]
 DocumentPath=DDS.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -106,7 +106,7 @@ DocumentUniqueId=FKPFPNXF
 
 [Document5]
 DocumentPath=Conectores.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -123,7 +123,7 @@ DocumentUniqueId=DUCLHTMX
 
 [Document6]
 DocumentPath=Top.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -140,7 +140,7 @@ DocumentUniqueId=YWQICEUS
 
 [Document7]
 DocumentPath=PowerSupply.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -154,6 +154,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EGTWCJEX
+
+[Document8]
+DocumentPath=Gen_func.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VCRGIFMQ
 
 [Configuration1]
 Name=Default Configuration
