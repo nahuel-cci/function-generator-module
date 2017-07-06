@@ -72,7 +72,7 @@ DocumentUniqueId=TXVQASKC
 
 [Document3]
 DocumentPath=DDS_DAC.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
