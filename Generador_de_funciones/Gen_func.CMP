@@ -1,0 +1,14 @@
+Component   : SOT_23
+PCB Library : Gen_func.PcbLib
+Date        : 07/07/2017
+Time        : 04:06:18 a.m.
+
+
+
+Dimension : 4.115 x 3.581 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Overlay                 0          4        0       1        0
+--------------------------------------------------------------------
+ Total                       0          4        0       1        0
