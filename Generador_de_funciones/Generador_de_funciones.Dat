@@ -1,0 +1,58 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Generador_de_funciones.PrjPcb|ReportField=ProjectFullPath~C:\Users\nahuel\Documents\Repo_FunctionGeneratorModule\Generador_de_funciones\Generador_de_funciones.PrjPcb|ReportField=Title~Bill of Materials For Project [Generador_de_funciones.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~93|ReportField=ReportTime~03:56:33 p.m.|ReportField=ReportDate~23/07/2017|ReportField=ReportDateTime~23/07/2017 03:56:33 p.m.|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~**|ReportField=CheckedBy~|ReportField=CompanyName~Introducción al Diseño de Circuitos Impresos|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~23/07/2017|ReportField=CurrentTime~03:47:32 p.m.|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\nahuel\Documents\Repo_FunctionGeneratorModule\Generador_de_funciones\Top.SchDoc|ReportField=DocumentName~Top.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~20/07/2017|ReportField=Organization~UTN FRBA|ReportField=ProjectName~Generador_de_funciones.PrjPcb|ReportField=Revision~**|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~5|ReportField=Time~|ReportField=Title~Top Level|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~Generador_de_funciones.PrjPcb|ReportField=DataSourceFullPath~C:\Users\nahuel\Documents\Repo_FunctionGeneratorModule\Generador_de_funciones\Generador_de_funciones.PrjPcb
+0.1µF 50V X7R|Capacitor|C1, C3, C7, C27|C_0805|4
+1µF ±10% 10V Y5V|Capacitor|C2|C_0805|1
+10uF Tantalum|Capacitor|C4, C37|C_0805|2
+0,1uF X7R 50V|Capacitor|C5, C6, C38|C_0805|3
+0.01µF 10V 0603 X5R|Capacitor|C8|C_0805|1
+8nF 16V X7R|Capacitor|C9, C35|C_0603|2
+6,8uF X 16V|Capacitor|C10|C_0805|1
+1uF X5R|Capacitor|C11|C_0805|1
+0,1uF X7R 16V|Capacitor|C12, C29, C30, C31, C32, C33, C34|C_0603|7
+100pF 16V X7R|Capacitor|C13|C_0805|1
+2.2uF 50V COG|Capacitor|C14, C22, C23|C_0805|3
+4.7uF 50V COG|Capacitor|C15, C19|C_0805|2
+13pF 16V X7R|Capacitor|C16|C_0603|1
+22uF 50V COG|Capacitor|C17, C26|C_1206|2
+220nF 16V X7R|Capacitor|C18|C_0603|1
+100nF 16V X7R|Capacitor|C20|C_0603|1
+10pF 16V X7R|Capacitor|C21|C_0603|1
+10nF 16V X7R|Capacitor|C24|C_0603|1
+4.7nF 16V X7R|Capacitor|C25|C_0603|1
+6,8uF X7R 16V|Capacitor|C28|C_0805|1
+4nF 16V X7R|Capacitor|C36|C_0603|1
+MBR1020VL|Schottky diode|D1|SOD-123|1
+MBR0520LT1G|Schottky diode|D2|SOD-123|1
+Header 0.1" 10 pos|Connector x10|J1|Connector .1 x10|1
+Header 0.1" 2x11 pos|Connector 2x11|J2|Connector .1 2x11|1
+TPS79901DRVR|LDO_Adjustable|J3|WSON|1
+TPS72301DBVR|LDO_Adjustable|J4|SOT_23|1
+6.8uHy|Inductor|L1, L2|L_4028|2
+742792515|Ferrite Bead|L3, L4|L_1812|2
+SI2323DS-T1-E3|Transistor|M1|SOT_23_Q|1
+BNC Elbow|BNC Elbow Connector|P1|BNC|1
+5K 5%|Resistor|R1, R2|R_0805|2
+200R 1%|Resistor|R3, R33||2
+1K 1%|Resistor|R4, R5, R6, R7, R9, R15, R16, R17, R20, R21|R_0603|10
+1K5 1%|Resistor|R8|R_0603|1
+NP|Resistor|R10|R_0603|1
+800R 1%|Resistor|R11, R34||2
+3K 1%|Resistor|R12, R13|R_0603|2
+2K 1%|Resistor|R14, R19, R25|R_0603|3
+200R 1%|Resistor|R18, R28|R_0603|2
+1M 1%|Resistor|R22, R31|R_0603|2
+523K 1%|Resistor|R23|R_0603|1
+250K 1%|Resistor|R24|R_0603|1
+110K 1%|Resistor|R26|R_0603|1
+133K 1%|Resistor|R27|R_0603|1
+100R 5%|Resistor|R29|R_0603|1
+768K 1%|Resistor|R30|R_0603|1
+223K 1%|Resistor|R32|R_0603|1
+TSH82IYDT|OpAmp_x2|U1|SOIC_8|1
+MCP6566UT-E/OT|Comparator|U2|SOT_23|1
+DAC_14Leads|DAC x4 I2C|U3||1
+AD9834BRU|DDS 50MHz|U4|TSSOP_20|1
+OPA2889IDGSR|OpAmp_Disable_x2|U5|MSOP_10|1
+LMH6658MM/NOPB|OpAmp_x2|U6|VSSOP_8|1
+TPS65131RGER|Positive and Negative Output DC-DC Converter|U7|VQFN-N24|1
+MCP6001T-I/OT|OpAmp|U8|SOT_23|1
+XTAL|Crystal oscillator|Y1|XTAL_4|1
